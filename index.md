@@ -1,5 +1,3 @@
-# Nice Game
-
 ![](img.png)
 
 [download](https://drive.google.com/file/d/15K3ZUzbUVmz0iI63CphBwuPNmpoudfxO/view?usp=drivesdk)
